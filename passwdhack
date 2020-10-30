@@ -1,0 +1,9 @@
+Kui pass läheb meelest :D
+
+SHIFT on restart
+GRUB -> e
+Asenda linux /boot/vmlinuz... real alates ro net... tekstiga rw init=/bin/bash
+F10
+cat /etc/passwd
+passwd <username>
+sync 
